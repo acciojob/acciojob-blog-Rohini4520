@@ -5,6 +5,9 @@ body{
 	 padding: 0;
     background-color: #f8f9fa;
 }
+img{
+	height: 200px;
+}
 marquee {
     font-size: 24px;
     font-weight: bold;
