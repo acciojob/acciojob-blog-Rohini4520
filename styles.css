@@ -1,5 +1,23 @@
 /*  your css code here. If applicable */
+body{
+	font-family: Arial, sans-serif;
+	margin: 20px;
+	 padding: 0;
+    background-color: #f8f9fa;
+}
+marquee {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+}
 article img {
     width: 100%;
     max-height: 200px;
+	object-fit: cover;
+}
+
+
+article {
+    width: 60%;
+    background: white;
 }
